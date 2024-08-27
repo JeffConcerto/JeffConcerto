@@ -19,6 +19,8 @@ I'm a self-taught iOS Developer with a background in English and Motion Pictures
 
 ### Pingie Pong:
 An original iOS game built with Swift and SwiftUI. The game features custom algorithms to create CPU characters with distinct playing styles, enhancing replay value and player engagement.
+[![Pingie Pong Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/ati6nTmnw98)
+
 
 ### Goaltender:
 GoalTender is a personal productivity app designed to help you track, organize, and achieve your goals across all areas of your life. Whether you're setting milestones for your career, planning personal achievements, or organizing recreational activities, GoalTender provides a user-friendly platform to keep you focused and motivated.
