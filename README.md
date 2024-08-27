@@ -20,7 +20,7 @@ I'm a self-taught iOS Developer with a background in English and Motion Pictures
 ### Pingie Pong:
 An original iOS game built with Swift and SwiftUI. The game features custom algorithms to create CPU characters with distinct playing styles, enhancing replay value and player engagement.
 
-Click the image for YouTube Demo Video (No Audio)
+Click the image below for a YouTube Demo Video (No Audio)!
 [![Pingie Pong Demo](https://img.youtube.com/vi/ati6nTmnw98/maxresdefault.jpg)](https://youtu.be/ati6nTmnw98)
 
 ### Goaltender:
