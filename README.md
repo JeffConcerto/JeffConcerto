@@ -26,13 +26,13 @@ I do at least one LeetCode question a day to keep from getting rusty and to shar
 ### Pingie Pong:
 An original iOS game built with Swift and SwiftUI. The game features custom algorithms to create CPU characters with distinct playing styles, enhancing replay value and player engagement.
 
-**Click the image below** for a YouTube video demo! No audio.
+**Click the image below** for a YouTube demo! No audio.
 [![Pingie Pong Demo](https://img.youtube.com/vi/ati6nTmnw98/maxresdefault.jpg)](https://youtu.be/ati6nTmnw98)
 
 ### Goaltender:
 GoalTender is a personal productivity app designed to help you track, organize, and achieve your goals across all areas of your life. Whether you're setting milestones for your career, planning personal achievements, or organizing recreational activities, GoalTender provides a user-friendly platform to keep you focused and motivated.
 
-**Click the image below** for a YouTube video demo!
+**Click the image below** for a YouTube demo!
 [![Goaltender Demo](https://img.youtube.com/vi/xfHKyQaHkiM/maxresdefault.jpg)](https://youtu.be/xfHKyQaHkiM)
 
 ### MMA Sim:
