@@ -33,7 +33,8 @@ An original iOS game built with Swift and SwiftUI. The game features custom algo
 GoalTender is a personal productivity app designed to help you track, organize, and achieve your goals across all areas of your life. Whether you're setting milestones for your career, planning personal achievements, or organizing recreational activities, GoalTender provides a user-friendly platform to keep you focused and motivated.
 
 **Click the image below** for a YouTube demo!
-[![Goaltender Demo](https://img.youtube.com/vi/xfHKyQaHkiM/maxresdefault.jpg)](https://youtu.be/xfHKyQaHkiM)
+
+[![Goaltender Demo](https://img.youtube.com/vi/xfHKyQaHkiM/hqdefault.jpg)](https://youtu.be/xfHKyQaHkiM)
 
 ### MMA Sim:
 A text-based MMA fight simulation game that leverages Swift and advanced data structures to create realistic fight scenarios. The game includes a personality rating system that influences fighter development.
