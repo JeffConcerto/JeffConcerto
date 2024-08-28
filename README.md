@@ -16,7 +16,7 @@ I'm a self-taught iOS Developer with a background in English and Motion Pictures
 - 📚 Currently diving deeper into **Swift 6.0** and exploring advanced data structures.
 
 ## LeetCode
-I do at least one LeetCode question a day to keep from getting rusty and to sharpen my data structures and algorithm skills. I haven't missed a day in over two years.
+I do at least one LeetCode question a day to keep from getting rusty and to sharpen my data structures and algorithm skills. I haven't missed a day in over two years :)
 
 - **[LeetCode Profile](https://leetcode.com/NoMansGhost/):** Follow my daily progress and see the problems I’ve solved.
 - **[LeetCode Repository](https://github.com/JeffConcerto/leetcode):** Check out my solutions and code explanations on GitHub.
